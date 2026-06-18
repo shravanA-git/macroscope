@@ -1,0 +1,8 @@
+{
+  "strategy_sharpe": 0.04117682904401731,
+  "benchmark_sharpe": 0.3672522208164765,
+  "strategy_max_drawdown": -0.4928859846539888,
+  "benchmark_max_drawdown": -0.5255585947031326,
+  "strategy_total_return": 2.394704101135828,
+  "benchmark_total_return": 16.157376783013596
+}

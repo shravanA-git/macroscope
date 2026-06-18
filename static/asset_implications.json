@@ -1,0 +1,36 @@
+{
+  "implications": [
+    {
+      "regime": "Expansion",
+      "color": "#22c55e",
+      "asset_class": "US Equities (S&P 500)",
+      "median_monthly_return": 0.01933,
+      "mean_monthly_return": 0.0173,
+      "observation_count": 52
+    },
+    {
+      "regime": "Late-Cycle",
+      "color": "#f59e0b",
+      "asset_class": "US Equities (S&P 500)",
+      "median_monthly_return": 0.0273,
+      "mean_monthly_return": 0.02479,
+      "observation_count": 35
+    },
+    {
+      "regime": "Recovery",
+      "color": "#3b82f6",
+      "asset_class": "US Equities (S&P 500)",
+      "median_monthly_return": 0.01212,
+      "mean_monthly_return": 0.00916,
+      "observation_count": 140
+    },
+    {
+      "regime": "Contraction",
+      "color": "#ef4444",
+      "asset_class": "US Equities (S&P 500)",
+      "median_monthly_return": 0.00852,
+      "mean_monthly_return": 0.00129,
+      "observation_count": 188
+    }
+  ]
+}

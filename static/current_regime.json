@@ -1,0 +1,46 @@
+{
+  "regime": {
+    "regime": "Contraction",
+    "probability": 1.0,
+    "probabilities": {
+      "Expansion": 0.0,
+      "Recovery": 0.0,
+      "Contraction": 1.0,
+      "Late-Cycle": 0.0
+    }
+  },
+  "indicators": [
+    {
+      "name": "Vix",
+      "value": 16.41,
+      "zscore": -0.622,
+      "trend": "up"
+    },
+    {
+      "name": "Yield Spread",
+      "value": 0.29,
+      "zscore": 0.917,
+      "trend": "down"
+    },
+    {
+      "name": "Pmi",
+      "value": NaN,
+      "zscore": -1.458,
+      "trend": "flat"
+    },
+    {
+      "name": "Credit Spread",
+      "value": 1.55,
+      "zscore": 0.116,
+      "trend": "down"
+    },
+    {
+      "name": "Unemployment",
+      "value": NaN,
+      "zscore": 1.773,
+      "trend": "up"
+    }
+  ],
+  "last_updated": "2026-06-18T04:42:49.787066+00:00",
+  "description": "GDP declining or stagnant, VIX elevated, credit spreads wide. Defensive positioning."
+}

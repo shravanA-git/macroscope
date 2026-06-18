@@ -1,0 +1,2079 @@
+{
+  "history": [
+    {
+      "date": "1991-03-31",
+      "regime": "Contraction",
+      "sp500_return": null
+    },
+    {
+      "date": "1991-04-30",
+      "regime": "Late-Cycle",
+      "sp500_return": null
+    },
+    {
+      "date": "1991-05-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.0386
+    },
+    {
+      "date": "1991-06-30",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.04789
+    },
+    {
+      "date": "1991-07-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.04486
+    },
+    {
+      "date": "1991-08-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.01965
+    },
+    {
+      "date": "1991-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.01914
+    },
+    {
+      "date": "1991-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01183
+    },
+    {
+      "date": "1991-11-30",
+      "regime": "Contraction",
+      "sp500_return": -0.0439
+    },
+    {
+      "date": "1991-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.11159
+    },
+    {
+      "date": "1992-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.01992
+    },
+    {
+      "date": "1992-02-29",
+      "regime": "Contraction",
+      "sp500_return": 0.00959
+    },
+    {
+      "date": "1992-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02183
+    },
+    {
+      "date": "1992-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.02789
+    },
+    {
+      "date": "1992-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00096
+    },
+    {
+      "date": "1992-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.01736
+    },
+    {
+      "date": "1992-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03937
+    },
+    {
+      "date": "1992-08-31",
+      "regime": "Contraction",
+      "sp500_return": -0.024
+    },
+    {
+      "date": "1992-09-30",
+      "regime": "Contraction",
+      "sp500_return": 0.00911
+    },
+    {
+      "date": "1992-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00211
+    },
+    {
+      "date": "1992-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03026
+    },
+    {
+      "date": "1992-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01011
+    },
+    {
+      "date": "1993-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00705
+    },
+    {
+      "date": "1993-02-28",
+      "regime": "Recovery",
+      "sp500_return": 0.01048
+    },
+    {
+      "date": "1993-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.0187
+    },
+    {
+      "date": "1993-04-30",
+      "regime": "Recovery",
+      "sp500_return": -0.02542
+    },
+    {
+      "date": "1993-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02272
+    },
+    {
+      "date": "1993-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.00076
+    },
+    {
+      "date": "1993-07-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00533
+    },
+    {
+      "date": "1993-08-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03443
+    },
+    {
+      "date": "1993-09-30",
+      "regime": "Recovery",
+      "sp500_return": -0.00999
+    },
+    {
+      "date": "1993-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01939
+    },
+    {
+      "date": "1993-11-30",
+      "regime": "Expansion",
+      "sp500_return": -0.01291
+    },
+    {
+      "date": "1993-12-31",
+      "regime": "Expansion",
+      "sp500_return": 0.01009
+    },
+    {
+      "date": "1994-01-31",
+      "regime": "Expansion",
+      "sp500_return": 0.0325
+    },
+    {
+      "date": "1994-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.03004
+    },
+    {
+      "date": "1994-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.04575
+    },
+    {
+      "date": "1994-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.01153
+    },
+    {
+      "date": "1994-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0124
+    },
+    {
+      "date": "1994-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.02679
+    },
+    {
+      "date": "1994-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03149
+    },
+    {
+      "date": "1994-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0376
+    },
+    {
+      "date": "1994-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.02688
+    },
+    {
+      "date": "1994-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02083
+    },
+    {
+      "date": "1994-11-30",
+      "regime": "Contraction",
+      "sp500_return": -0.0395
+    },
+    {
+      "date": "1994-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0123
+    },
+    {
+      "date": "1995-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02428
+    },
+    {
+      "date": "1995-02-28",
+      "regime": "Contraction",
+      "sp500_return": 0.03607
+    },
+    {
+      "date": "1995-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02733
+    },
+    {
+      "date": "1995-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.02796
+    },
+    {
+      "date": "1995-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03631
+    },
+    {
+      "date": "1995-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.02128
+    },
+    {
+      "date": "1995-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03178
+    },
+    {
+      "date": "1995-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00032
+    },
+    {
+      "date": "1995-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.0401
+    },
+    {
+      "date": "1995-10-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00498
+    },
+    {
+      "date": "1995-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.04105
+    },
+    {
+      "date": "1995-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01744
+    },
+    {
+      "date": "1996-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03262
+    },
+    {
+      "date": "1996-02-29",
+      "regime": "Recovery",
+      "sp500_return": 0.00693
+    },
+    {
+      "date": "1996-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00792
+    },
+    {
+      "date": "1996-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01343
+    },
+    {
+      "date": "1996-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02285
+    },
+    {
+      "date": "1996-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.00226
+    },
+    {
+      "date": "1996-07-31",
+      "regime": "Recovery",
+      "sp500_return": -0.04575
+    },
+    {
+      "date": "1996-08-31",
+      "regime": "Expansion",
+      "sp500_return": 0.01881
+    },
+    {
+      "date": "1996-09-30",
+      "regime": "Expansion",
+      "sp500_return": 0.0542
+    },
+    {
+      "date": "1996-10-31",
+      "regime": "Expansion",
+      "sp500_return": 0.0261
+    },
+    {
+      "date": "1996-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.07338
+    },
+    {
+      "date": "1996-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02151
+    },
+    {
+      "date": "1997-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.06132
+    },
+    {
+      "date": "1997-02-28",
+      "regime": "Contraction",
+      "sp500_return": 0.00593
+    },
+    {
+      "date": "1997-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.04261
+    },
+    {
+      "date": "1997-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.05841
+    },
+    {
+      "date": "1997-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.05858
+    },
+    {
+      "date": "1997-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.04345
+    },
+    {
+      "date": "1997-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.07815
+    },
+    {
+      "date": "1997-08-31",
+      "regime": "Contraction",
+      "sp500_return": -0.05747
+    },
+    {
+      "date": "1997-09-30",
+      "regime": "Contraction",
+      "sp500_return": 0.05315
+    },
+    {
+      "date": "1997-10-31",
+      "regime": "Contraction",
+      "sp500_return": -0.03448
+    },
+    {
+      "date": "1997-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.04459
+    },
+    {
+      "date": "1997-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01573
+    },
+    {
+      "date": "1998-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01015
+    },
+    {
+      "date": "1998-02-28",
+      "regime": "Contraction",
+      "sp500_return": 0.07045
+    },
+    {
+      "date": "1998-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.04995
+    },
+    {
+      "date": "1998-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.00908
+    },
+    {
+      "date": "1998-05-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01883
+    },
+    {
+      "date": "1998-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03944
+    },
+    {
+      "date": "1998-07-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01162
+    },
+    {
+      "date": "1998-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.1458
+    },
+    {
+      "date": "1998-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.0624
+    },
+    {
+      "date": "1998-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.08029
+    },
+    {
+      "date": "1998-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.05913
+    },
+    {
+      "date": "1998-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.05638
+    },
+    {
+      "date": "1999-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.04101
+    },
+    {
+      "date": "1999-02-28",
+      "regime": "Recovery",
+      "sp500_return": -0.03228
+    },
+    {
+      "date": "1999-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03879
+    },
+    {
+      "date": "1999-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03794
+    },
+    {
+      "date": "1999-05-31",
+      "regime": "Recovery",
+      "sp500_return": -0.02497
+    },
+    {
+      "date": "1999-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.05444
+    },
+    {
+      "date": "1999-07-31",
+      "regime": "Recovery",
+      "sp500_return": -0.03205
+    },
+    {
+      "date": "1999-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00625
+    },
+    {
+      "date": "1999-09-30",
+      "regime": "Recovery",
+      "sp500_return": -0.02855
+    },
+    {
+      "date": "1999-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.06254
+    },
+    {
+      "date": "1999-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01906
+    },
+    {
+      "date": "1999-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.05784
+    },
+    {
+      "date": "2000-01-31",
+      "regime": "Recovery",
+      "sp500_return": -0.0509
+    },
+    {
+      "date": "2000-02-29",
+      "regime": "Recovery",
+      "sp500_return": -0.02011
+    },
+    {
+      "date": "2000-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.09672
+    },
+    {
+      "date": "2000-04-30",
+      "regime": "Recovery",
+      "sp500_return": -0.0308
+    },
+    {
+      "date": "2000-05-31",
+      "regime": "Recovery",
+      "sp500_return": -0.02192
+    },
+    {
+      "date": "2000-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.02393
+    },
+    {
+      "date": "2000-07-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01634
+    },
+    {
+      "date": "2000-08-31",
+      "regime": "Recovery",
+      "sp500_return": 0.0607
+    },
+    {
+      "date": "2000-09-30",
+      "regime": "Recovery",
+      "sp500_return": -0.05348
+    },
+    {
+      "date": "2000-10-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00495
+    },
+    {
+      "date": "2000-11-30",
+      "regime": "Recovery",
+      "sp500_return": -0.08007
+    },
+    {
+      "date": "2000-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00405
+    },
+    {
+      "date": "2001-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03464
+    },
+    {
+      "date": "2001-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.09229
+    },
+    {
+      "date": "2001-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.0642
+    },
+    {
+      "date": "2001-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.07681
+    },
+    {
+      "date": "2001-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00509
+    },
+    {
+      "date": "2001-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.02504
+    },
+    {
+      "date": "2001-07-31",
+      "regime": "Contraction",
+      "sp500_return": -0.01074
+    },
+    {
+      "date": "2001-08-31",
+      "regime": "Contraction",
+      "sp500_return": -0.06411
+    },
+    {
+      "date": "2001-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.08172
+    },
+    {
+      "date": "2001-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0181
+    },
+    {
+      "date": "2001-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.07518
+    },
+    {
+      "date": "2001-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00757
+    },
+    {
+      "date": "2002-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.01557
+    },
+    {
+      "date": "2002-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.02077
+    },
+    {
+      "date": "2002-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03674
+    },
+    {
+      "date": "2002-04-30",
+      "regime": "Contraction",
+      "sp500_return": -0.06142
+    },
+    {
+      "date": "2002-05-31",
+      "regime": "Contraction",
+      "sp500_return": -0.00908
+    },
+    {
+      "date": "2002-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.07246
+    },
+    {
+      "date": "2002-07-31",
+      "regime": "Contraction",
+      "sp500_return": -0.079
+    },
+    {
+      "date": "2002-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00488
+    },
+    {
+      "date": "2002-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.11002
+    },
+    {
+      "date": "2002-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.08645
+    },
+    {
+      "date": "2002-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.05707
+    },
+    {
+      "date": "2002-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.06033
+    },
+    {
+      "date": "2003-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02741
+    },
+    {
+      "date": "2003-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.017
+    },
+    {
+      "date": "2003-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00836
+    },
+    {
+      "date": "2003-04-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.08104
+    },
+    {
+      "date": "2003-05-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.0509
+    },
+    {
+      "date": "2003-06-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.01132
+    },
+    {
+      "date": "2003-07-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.01622
+    },
+    {
+      "date": "2003-08-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.01787
+    },
+    {
+      "date": "2003-09-30",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.01194
+    },
+    {
+      "date": "2003-10-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.05496
+    },
+    {
+      "date": "2003-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.00713
+    },
+    {
+      "date": "2003-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.05077
+    },
+    {
+      "date": "2004-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01728
+    },
+    {
+      "date": "2004-02-29",
+      "regime": "Recovery",
+      "sp500_return": 0.01221
+    },
+    {
+      "date": "2004-03-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01636
+    },
+    {
+      "date": "2004-04-30",
+      "regime": "Recovery",
+      "sp500_return": -0.01679
+    },
+    {
+      "date": "2004-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01208
+    },
+    {
+      "date": "2004-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01799
+    },
+    {
+      "date": "2004-07-31",
+      "regime": "Recovery",
+      "sp500_return": -0.03429
+    },
+    {
+      "date": "2004-08-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00229
+    },
+    {
+      "date": "2004-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.00936
+    },
+    {
+      "date": "2004-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01401
+    },
+    {
+      "date": "2004-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03859
+    },
+    {
+      "date": "2004-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03246
+    },
+    {
+      "date": "2005-01-31",
+      "regime": "Recovery",
+      "sp500_return": -0.02529
+    },
+    {
+      "date": "2005-02-28",
+      "regime": "Recovery",
+      "sp500_return": 0.0189
+    },
+    {
+      "date": "2005-03-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01912
+    },
+    {
+      "date": "2005-04-30",
+      "regime": "Recovery",
+      "sp500_return": -0.02011
+    },
+    {
+      "date": "2005-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02995
+    },
+    {
+      "date": "2005-06-30",
+      "regime": "Recovery",
+      "sp500_return": -0.00014
+    },
+    {
+      "date": "2005-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03597
+    },
+    {
+      "date": "2005-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01122
+    },
+    {
+      "date": "2005-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.00695
+    },
+    {
+      "date": "2005-10-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01774
+    },
+    {
+      "date": "2005-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03519
+    },
+    {
+      "date": "2005-12-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00095
+    },
+    {
+      "date": "2006-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02547
+    },
+    {
+      "date": "2006-02-28",
+      "regime": "Recovery",
+      "sp500_return": 0.00045
+    },
+    {
+      "date": "2006-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.0111
+    },
+    {
+      "date": "2006-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01216
+    },
+    {
+      "date": "2006-05-31",
+      "regime": "Recovery",
+      "sp500_return": -0.03092
+    },
+    {
+      "date": "2006-06-30",
+      "regime": "Recovery",
+      "sp500_return": 9e-05
+    },
+    {
+      "date": "2006-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00509
+    },
+    {
+      "date": "2006-08-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02127
+    },
+    {
+      "date": "2006-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.02457
+    },
+    {
+      "date": "2006-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03151
+    },
+    {
+      "date": "2006-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01647
+    },
+    {
+      "date": "2006-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01262
+    },
+    {
+      "date": "2007-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01406
+    },
+    {
+      "date": "2007-02-28",
+      "regime": "Recovery",
+      "sp500_return": -0.02185
+    },
+    {
+      "date": "2007-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00998
+    },
+    {
+      "date": "2007-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.04329
+    },
+    {
+      "date": "2007-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03255
+    },
+    {
+      "date": "2007-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.01782
+    },
+    {
+      "date": "2007-07-31",
+      "regime": "Contraction",
+      "sp500_return": -0.03198
+    },
+    {
+      "date": "2007-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01286
+    },
+    {
+      "date": "2007-09-30",
+      "regime": "Contraction",
+      "sp500_return": 0.03579
+    },
+    {
+      "date": "2007-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01482
+    },
+    {
+      "date": "2007-11-30",
+      "regime": "Contraction",
+      "sp500_return": -0.04404
+    },
+    {
+      "date": "2007-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.00863
+    },
+    {
+      "date": "2008-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.06116
+    },
+    {
+      "date": "2008-02-29",
+      "regime": "Contraction",
+      "sp500_return": -0.03476
+    },
+    {
+      "date": "2008-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.00596
+    },
+    {
+      "date": "2008-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.04755
+    },
+    {
+      "date": "2008-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01067
+    },
+    {
+      "date": "2008-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.08596
+    },
+    {
+      "date": "2008-07-31",
+      "regime": "Contraction",
+      "sp500_return": -0.00986
+    },
+    {
+      "date": "2008-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01219
+    },
+    {
+      "date": "2008-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.09079
+    },
+    {
+      "date": "2008-10-31",
+      "regime": "Contraction",
+      "sp500_return": -0.16942
+    },
+    {
+      "date": "2008-11-30",
+      "regime": "Contraction",
+      "sp500_return": -0.07485
+    },
+    {
+      "date": "2008-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00782
+    },
+    {
+      "date": "2009-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.08566
+    },
+    {
+      "date": "2009-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.10993
+    },
+    {
+      "date": "2009-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0854
+    },
+    {
+      "date": "2009-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.09393
+    },
+    {
+      "date": "2009-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.05308
+    },
+    {
+      "date": "2009-06-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.0002
+    },
+    {
+      "date": "2009-07-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.07414
+    },
+    {
+      "date": "2009-08-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.03356
+    },
+    {
+      "date": "2009-09-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.03572
+    },
+    {
+      "date": "2009-10-31",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.01976
+    },
+    {
+      "date": "2009-11-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.05736
+    },
+    {
+      "date": "2009-12-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.01777
+    },
+    {
+      "date": "2010-01-31",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.03697
+    },
+    {
+      "date": "2010-02-28",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.02851
+    },
+    {
+      "date": "2010-03-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.0588
+    },
+    {
+      "date": "2010-04-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.01476
+    },
+    {
+      "date": "2010-05-31",
+      "regime": "Recovery",
+      "sp500_return": -0.08198
+    },
+    {
+      "date": "2010-06-30",
+      "regime": "Recovery",
+      "sp500_return": -0.05388
+    },
+    {
+      "date": "2010-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.06878
+    },
+    {
+      "date": "2010-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.04745
+    },
+    {
+      "date": "2010-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.08755
+    },
+    {
+      "date": "2010-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03686
+    },
+    {
+      "date": "2010-11-30",
+      "regime": "Recovery",
+      "sp500_return": -0.00229
+    },
+    {
+      "date": "2010-12-31",
+      "regime": "Expansion",
+      "sp500_return": 0.0653
+    },
+    {
+      "date": "2011-01-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02265
+    },
+    {
+      "date": "2011-02-28",
+      "regime": "Expansion",
+      "sp500_return": 0.03196
+    },
+    {
+      "date": "2011-03-31",
+      "regime": "Expansion",
+      "sp500_return": -0.00105
+    },
+    {
+      "date": "2011-04-30",
+      "regime": "Expansion",
+      "sp500_return": 0.0285
+    },
+    {
+      "date": "2011-05-31",
+      "regime": "Expansion",
+      "sp500_return": -0.0135
+    },
+    {
+      "date": "2011-06-30",
+      "regime": "Expansion",
+      "sp500_return": -0.01826
+    },
+    {
+      "date": "2011-07-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02147
+    },
+    {
+      "date": "2011-08-31",
+      "regime": "Contraction",
+      "sp500_return": -0.05679
+    },
+    {
+      "date": "2011-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.07176
+    },
+    {
+      "date": "2011-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.10772
+    },
+    {
+      "date": "2011-11-30",
+      "regime": "Contraction",
+      "sp500_return": -0.00506
+    },
+    {
+      "date": "2011-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00853
+    },
+    {
+      "date": "2012-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.04358
+    },
+    {
+      "date": "2012-02-29",
+      "regime": "Contraction",
+      "sp500_return": 0.04059
+    },
+    {
+      "date": "2012-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03133
+    },
+    {
+      "date": "2012-04-30",
+      "regime": "Contraction",
+      "sp500_return": -0.0075
+    },
+    {
+      "date": "2012-05-31",
+      "regime": "Contraction",
+      "sp500_return": -0.06265
+    },
+    {
+      "date": "2012-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.03955
+    },
+    {
+      "date": "2012-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0126
+    },
+    {
+      "date": "2012-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01976
+    },
+    {
+      "date": "2012-09-30",
+      "regime": "Expansion",
+      "sp500_return": 0.02424
+    },
+    {
+      "date": "2012-10-31",
+      "regime": "Expansion",
+      "sp500_return": -0.01979
+    },
+    {
+      "date": "2012-11-30",
+      "regime": "Expansion",
+      "sp500_return": 0.00285
+    },
+    {
+      "date": "2012-12-31",
+      "regime": "Expansion",
+      "sp500_return": 0.00707
+    },
+    {
+      "date": "2013-01-31",
+      "regime": "Expansion",
+      "sp500_return": 0.05043
+    },
+    {
+      "date": "2013-02-28",
+      "regime": "Expansion",
+      "sp500_return": 0.01106
+    },
+    {
+      "date": "2013-03-31",
+      "regime": "Expansion",
+      "sp500_return": 0.03599
+    },
+    {
+      "date": "2013-04-30",
+      "regime": "Expansion",
+      "sp500_return": 0.01809
+    },
+    {
+      "date": "2013-05-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02076
+    },
+    {
+      "date": "2013-06-30",
+      "regime": "Expansion",
+      "sp500_return": -0.015
+    },
+    {
+      "date": "2013-07-31",
+      "regime": "Expansion",
+      "sp500_return": 0.04946
+    },
+    {
+      "date": "2013-08-31",
+      "regime": "Expansion",
+      "sp500_return": -0.0313
+    },
+    {
+      "date": "2013-09-30",
+      "regime": "Expansion",
+      "sp500_return": 0.02975
+    },
+    {
+      "date": "2013-10-31",
+      "regime": "Expansion",
+      "sp500_return": 0.0446
+    },
+    {
+      "date": "2013-11-30",
+      "regime": "Expansion",
+      "sp500_return": 0.02805
+    },
+    {
+      "date": "2013-12-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02356
+    },
+    {
+      "date": "2014-01-31",
+      "regime": "Expansion",
+      "sp500_return": -0.03558
+    },
+    {
+      "date": "2014-02-28",
+      "regime": "Expansion",
+      "sp500_return": 0.04312
+    },
+    {
+      "date": "2014-03-31",
+      "regime": "Expansion",
+      "sp500_return": 0.00693
+    },
+    {
+      "date": "2014-04-30",
+      "regime": "Expansion",
+      "sp500_return": 0.0062
+    },
+    {
+      "date": "2014-05-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02103
+    },
+    {
+      "date": "2014-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.01906
+    },
+    {
+      "date": "2014-07-31",
+      "regime": "Contraction",
+      "sp500_return": -0.01508
+    },
+    {
+      "date": "2014-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03766
+    },
+    {
+      "date": "2014-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.01551
+    },
+    {
+      "date": "2014-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0232
+    },
+    {
+      "date": "2014-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.02453
+    },
+    {
+      "date": "2014-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.00419
+    },
+    {
+      "date": "2015-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.03104
+    },
+    {
+      "date": "2015-02-28",
+      "regime": "Contraction",
+      "sp500_return": 0.05489
+    },
+    {
+      "date": "2015-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.0174
+    },
+    {
+      "date": "2015-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.00852
+    },
+    {
+      "date": "2015-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01049
+    },
+    {
+      "date": "2015-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.02101
+    },
+    {
+      "date": "2015-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01974
+    },
+    {
+      "date": "2015-08-31",
+      "regime": "Contraction",
+      "sp500_return": -0.06258
+    },
+    {
+      "date": "2015-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.02644
+    },
+    {
+      "date": "2015-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.08298
+    },
+    {
+      "date": "2015-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.0005
+    },
+    {
+      "date": "2015-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.01753
+    },
+    {
+      "date": "2016-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.05074
+    },
+    {
+      "date": "2016-02-29",
+      "regime": "Recovery",
+      "sp500_return": -0.00413
+    },
+    {
+      "date": "2016-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.06599
+    },
+    {
+      "date": "2016-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.0027
+    },
+    {
+      "date": "2016-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01532
+    },
+    {
+      "date": "2016-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.00091
+    },
+    {
+      "date": "2016-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03561
+    },
+    {
+      "date": "2016-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00122
+    },
+    {
+      "date": "2016-09-30",
+      "regime": "Recovery",
+      "sp500_return": -0.00123
+    },
+    {
+      "date": "2016-10-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01943
+    },
+    {
+      "date": "2016-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03417
+    },
+    {
+      "date": "2016-12-31",
+      "regime": "Expansion",
+      "sp500_return": 0.0182
+    },
+    {
+      "date": "2017-01-31",
+      "regime": "Expansion",
+      "sp500_return": 0.01788
+    },
+    {
+      "date": "2017-02-28",
+      "regime": "Expansion",
+      "sp500_return": 0.0372
+    },
+    {
+      "date": "2017-03-31",
+      "regime": "Expansion",
+      "sp500_return": -0.00039
+    },
+    {
+      "date": "2017-04-30",
+      "regime": "Expansion",
+      "sp500_return": 0.00909
+    },
+    {
+      "date": "2017-05-31",
+      "regime": "Expansion",
+      "sp500_return": 0.01158
+    },
+    {
+      "date": "2017-06-30",
+      "regime": "Expansion",
+      "sp500_return": 0.00481
+    },
+    {
+      "date": "2017-07-31",
+      "regime": "Expansion",
+      "sp500_return": 0.01935
+    },
+    {
+      "date": "2017-08-31",
+      "regime": "Expansion",
+      "sp500_return": 0.00055
+    },
+    {
+      "date": "2017-09-30",
+      "regime": "Expansion",
+      "sp500_return": 0.0193
+    },
+    {
+      "date": "2017-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02219
+    },
+    {
+      "date": "2017-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.02808
+    },
+    {
+      "date": "2017-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.00983
+    },
+    {
+      "date": "2018-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.05618
+    },
+    {
+      "date": "2018-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.03895
+    },
+    {
+      "date": "2018-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02688
+    },
+    {
+      "date": "2018-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.00272
+    },
+    {
+      "date": "2018-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02161
+    },
+    {
+      "date": "2018-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.00484
+    },
+    {
+      "date": "2018-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03602
+    },
+    {
+      "date": "2018-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03026
+    },
+    {
+      "date": "2018-09-30",
+      "regime": "Contraction",
+      "sp500_return": 0.00429
+    },
+    {
+      "date": "2018-10-31",
+      "regime": "Contraction",
+      "sp500_return": -0.0694
+    },
+    {
+      "date": "2018-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.01786
+    },
+    {
+      "date": "2018-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.09178
+    },
+    {
+      "date": "2019-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.07868
+    },
+    {
+      "date": "2019-02-28",
+      "regime": "Contraction",
+      "sp500_return": 0.02973
+    },
+    {
+      "date": "2019-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01792
+    },
+    {
+      "date": "2019-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03931
+    },
+    {
+      "date": "2019-05-31",
+      "regime": "Recovery",
+      "sp500_return": -0.06578
+    },
+    {
+      "date": "2019-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.06893
+    },
+    {
+      "date": "2019-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.01313
+    },
+    {
+      "date": "2019-08-31",
+      "regime": "Recovery",
+      "sp500_return": -0.01809
+    },
+    {
+      "date": "2019-09-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01718
+    },
+    {
+      "date": "2019-10-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02043
+    },
+    {
+      "date": "2019-11-30",
+      "regime": "Recovery",
+      "sp500_return": 0.03405
+    },
+    {
+      "date": "2019-12-31",
+      "regime": "Recovery",
+      "sp500_return": 0.02859
+    },
+    {
+      "date": "2020-01-31",
+      "regime": "Recovery",
+      "sp500_return": -0.00163
+    },
+    {
+      "date": "2020-02-29",
+      "regime": "Recovery",
+      "sp500_return": -0.08411
+    },
+    {
+      "date": "2020-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.12512
+    },
+    {
+      "date": "2020-04-30",
+      "regime": "Contraction",
+      "sp500_return": 0.12684
+    },
+    {
+      "date": "2020-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.04528
+    },
+    {
+      "date": "2020-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.01839
+    },
+    {
+      "date": "2020-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.0551
+    },
+    {
+      "date": "2020-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.07006
+    },
+    {
+      "date": "2020-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.03923
+    },
+    {
+      "date": "2020-10-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02767
+    },
+    {
+      "date": "2020-11-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.10755
+    },
+    {
+      "date": "2020-12-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.03712
+    },
+    {
+      "date": "2021-01-31",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.01114
+    },
+    {
+      "date": "2021-02-28",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.02609
+    },
+    {
+      "date": "2021-03-31",
+      "regime": "Expansion",
+      "sp500_return": 0.04244
+    },
+    {
+      "date": "2021-04-30",
+      "regime": "Expansion",
+      "sp500_return": 0.05243
+    },
+    {
+      "date": "2021-05-31",
+      "regime": "Expansion",
+      "sp500_return": 0.00549
+    },
+    {
+      "date": "2021-06-30",
+      "regime": "Expansion",
+      "sp500_return": 0.02221
+    },
+    {
+      "date": "2021-07-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02275
+    },
+    {
+      "date": "2021-08-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02899
+    },
+    {
+      "date": "2021-09-30",
+      "regime": "Expansion",
+      "sp500_return": -0.04757
+    },
+    {
+      "date": "2021-10-31",
+      "regime": "Expansion",
+      "sp500_return": 0.06914
+    },
+    {
+      "date": "2021-11-30",
+      "regime": "Contraction",
+      "sp500_return": -0.00833
+    },
+    {
+      "date": "2021-12-31",
+      "regime": "Contraction",
+      "sp500_return": 0.04361
+    },
+    {
+      "date": "2022-01-31",
+      "regime": "Contraction",
+      "sp500_return": -0.05259
+    },
+    {
+      "date": "2022-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.03136
+    },
+    {
+      "date": "2022-03-31",
+      "regime": "Contraction",
+      "sp500_return": 0.03577
+    },
+    {
+      "date": "2022-04-30",
+      "regime": "Contraction",
+      "sp500_return": -0.08796
+    },
+    {
+      "date": "2022-05-31",
+      "regime": "Contraction",
+      "sp500_return": 5e-05
+    },
+    {
+      "date": "2022-06-30",
+      "regime": "Contraction",
+      "sp500_return": -0.08392
+    },
+    {
+      "date": "2022-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.09112
+    },
+    {
+      "date": "2022-08-31",
+      "regime": "Contraction",
+      "sp500_return": -0.04244
+    },
+    {
+      "date": "2022-09-30",
+      "regime": "Contraction",
+      "sp500_return": -0.0934
+    },
+    {
+      "date": "2022-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.07986
+    },
+    {
+      "date": "2022-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.05375
+    },
+    {
+      "date": "2022-12-31",
+      "regime": "Recovery",
+      "sp500_return": -0.05897
+    },
+    {
+      "date": "2023-01-31",
+      "regime": "Recovery",
+      "sp500_return": 0.06175
+    },
+    {
+      "date": "2023-02-28",
+      "regime": "Recovery",
+      "sp500_return": -0.02611
+    },
+    {
+      "date": "2023-03-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03505
+    },
+    {
+      "date": "2023-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.01464
+    },
+    {
+      "date": "2023-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.00248
+    },
+    {
+      "date": "2023-06-30",
+      "regime": "Recovery",
+      "sp500_return": 0.06473
+    },
+    {
+      "date": "2023-07-31",
+      "regime": "Recovery",
+      "sp500_return": 0.03114
+    },
+    {
+      "date": "2023-08-31",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.01772
+    },
+    {
+      "date": "2023-09-30",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.04872
+    },
+    {
+      "date": "2023-10-31",
+      "regime": "Late-Cycle",
+      "sp500_return": -0.02198
+    },
+    {
+      "date": "2023-11-30",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.08918
+    },
+    {
+      "date": "2023-12-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.04423
+    },
+    {
+      "date": "2024-01-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.0159
+    },
+    {
+      "date": "2024-02-29",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.05172
+    },
+    {
+      "date": "2024-03-31",
+      "regime": "Late-Cycle",
+      "sp500_return": 0.03102
+    },
+    {
+      "date": "2024-04-30",
+      "regime": "Contraction",
+      "sp500_return": -0.04162
+    },
+    {
+      "date": "2024-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.04802
+    },
+    {
+      "date": "2024-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.03467
+    },
+    {
+      "date": "2024-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01132
+    },
+    {
+      "date": "2024-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02283
+    },
+    {
+      "date": "2024-09-30",
+      "regime": "Contraction",
+      "sp500_return": 0.0202
+    },
+    {
+      "date": "2024-10-31",
+      "regime": "Contraction",
+      "sp500_return": -0.0099
+    },
+    {
+      "date": "2024-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.0573
+    },
+    {
+      "date": "2024-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.02499
+    },
+    {
+      "date": "2025-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02702
+    },
+    {
+      "date": "2025-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.01424
+    },
+    {
+      "date": "2025-03-31",
+      "regime": "Contraction",
+      "sp500_return": -0.05754
+    },
+    {
+      "date": "2025-04-30",
+      "regime": "Contraction",
+      "sp500_return": -0.00762
+    },
+    {
+      "date": "2025-05-31",
+      "regime": "Contraction",
+      "sp500_return": 0.06152
+    },
+    {
+      "date": "2025-06-30",
+      "regime": "Contraction",
+      "sp500_return": 0.04961
+    },
+    {
+      "date": "2025-07-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02167
+    },
+    {
+      "date": "2025-08-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01907
+    },
+    {
+      "date": "2025-09-30",
+      "regime": "Contraction",
+      "sp500_return": 0.03532
+    }
+  ]
+}
