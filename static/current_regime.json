@@ -12,35 +12,35 @@
   "indicators": [
     {
       "name": "Vix",
-      "value": 16.41,
+      "value": 15.32,
       "zscore": -0.622,
       "trend": "up"
     },
     {
       "name": "Yield Spread",
-      "value": 0.29,
+      "value": 0.47,
       "zscore": 0.917,
       "trend": "down"
     },
     {
       "name": "Pmi",
-      "value": null,
+      "value": 12605.0,
       "zscore": -1.458,
       "trend": "flat"
     },
     {
       "name": "Credit Spread",
-      "value": 1.55,
+      "value": 1.57,
       "zscore": 0.116,
       "trend": "down"
     },
     {
       "name": "Unemployment",
-      "value": null,
+      "value": 4.3,
       "zscore": 1.773,
       "trend": "up"
     }
   ],
-  "last_updated": "2026-06-18T04:42:49.787066+00:00",
+  "last_updated": "2026-06-18T05:00:20.388766+00:00",
   "description": "GDP declining or stagnant, VIX elevated, credit spreads wide. Defensive positioning."
 }

@@ -75,16 +75,18 @@ def main():
         "description": REGIME_DESCRIPTIONS.get(current_label, ""),
     }
 
-    raw_last = raw.iloc[-1]
+    # Use last fully-populated row for display values (current month may be incomplete mid-month)
+    raw_last = raw.dropna().iloc[-1]
     for col in ["vix", "yield_spread", "pmi", "credit_spread", "unemployment"]:
         z_col = f"{col}_zscore"
         mom_col = f"{col}_mom"
         z = float(features[z_col].iloc[-1]) if z_col in features.columns else 0.0
         mom = float(features[mom_col].iloc[-1]) if mom_col in features.columns else 0.0
         trend = "up" if mom > 0.002 else ("down" if mom < -0.002 else "flat")
+        val = raw_last[col] if col in raw_last.index else None
         current_regime["indicators"].append({
             "name": col.replace("_", " ").title(),
-            "value": float(raw_last[col]) if col in raw_last.index else 0.0,
+            "value": None if (val is None or (isinstance(val, float) and np.isnan(val))) else float(val),
             "zscore": round(z, 3),
             "trend": trend,
         })

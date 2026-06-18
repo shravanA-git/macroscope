@@ -14,7 +14,8 @@ build/
 *.csv
 *.feather
 
-# ML model artifacts
+# ML model artifacts (generated during training, not needed in git)
+backend/models/artifacts/
 backend/models/saved/
 *.pkl
 *.joblib

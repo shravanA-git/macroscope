@@ -12,10 +12,12 @@ class MacroHMM:
     """
     GaussianHMM wrapper for macroeconomic regime detection.
     Uses 'full' covariance to capture correlations between indicators.
-    n_states=4 maps to: Expansion, Late-Cycle, Contraction, Recovery.
+    n_states=5 (default): top 3 states map to Expansion/Late-Cycle/Recovery,
+    bottom 2 states both map to Contraction — capturing distinct contraction
+    archetypes (unemployment-driven recession vs. rate-shock bear market).
     """
 
-    def __init__(self, n_states: int = 4, n_iter: int = 200):
+    def __init__(self, n_states: int = 5, n_iter: int = 300):
         self.n_states = n_states
         self.model = GaussianHMM(
             n_components=n_states,
