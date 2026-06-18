@@ -24,7 +24,7 @@
     },
     {
       "name": "Pmi",
-      "value": NaN,
+      "value": null,
       "zscore": -1.458,
       "trend": "flat"
     },
@@ -36,7 +36,7 @@
     },
     {
       "name": "Unemployment",
-      "value": NaN,
+      "value": null,
       "zscore": 1.773,
       "trend": "up"
     }
