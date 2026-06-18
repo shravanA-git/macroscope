@@ -31,9 +31,21 @@ def add_lag_features(df: pd.DataFrame, lags: list[int] = [1, 3]) -> pd.DataFrame
 
 
 def build_feature_matrix(raw_df: pd.DataFrame) -> pd.DataFrame:
-    """Full pipeline: z-scores + MoM changes + lags, then drop NaN rows."""
+    """Full pipeline: z-scores + MoM changes + lags, then drop NaN rows.
+
+    Columns with >50% missing values are dropped before row-level dropna so
+    that a sparse series (e.g. one that only starts recently) does not
+    collapse the entire history to just its coverage window.
+    """
+    # Remove sparse columns before feature engineering to preserve row history
+    threshold = 0.5
+    coverage = raw_df.notna().mean()
+    raw_df = raw_df.loc[:, coverage >= threshold]
+
     zscores = add_rolling_zscores(raw_df)
     moms = add_rate_of_change(raw_df)
     lags = add_lag_features(zscores)
     combined = pd.concat([zscores, moms, lags], axis=1)
+    # Drop any remaining all-NaN columns, then drop incomplete rows
+    combined = combined.dropna(how="all", axis=1)
     return combined.dropna()
