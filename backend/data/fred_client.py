@@ -7,7 +7,7 @@ SERIES = {
     "vix": "VIXCLS",
     "yield_spread": "T10Y2Y",
     "pmi": "MANEMP",          # Manufacturing employment — proxy for ISM PMI (NAPM deprecated on FRED)
-    "credit_spread": "BAMLH0A0HYM2",
+    "credit_spread": "BAA10Y",         # Moody's Baa spread over 10Y — BAMLH0A0HYM2 restricted on public CSV
     "unemployment": "UNRATE",
 }
 
