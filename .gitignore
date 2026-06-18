@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+*.egg
+
+# Data (cached FRED pulls — too large for git, regenerated on demand)
+/data/
+*.parquet
+*.csv
+*.feather
+
+# ML model artifacts
+backend/models/saved/
+*.pkl
+*.joblib
+*.autogluon/
+AutogluonModels/
+
+# Environment
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/out/
+frontend/.vercel/
+
+# Jupyter
+.ipynb_checkpoints/
+research/notebooks/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/

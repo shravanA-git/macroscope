@@ -6,7 +6,7 @@ FRED_CSV_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv"
 SERIES = {
     "vix": "VIXCLS",
     "yield_spread": "T10Y2Y",
-    "pmi": "NAPM",
+    "pmi": "MANEMP",          # Manufacturing employment — proxy for ISM PMI (NAPM deprecated on FRED)
     "credit_spread": "BAMLH0A0HYM2",
     "unemployment": "UNRATE",
 }
