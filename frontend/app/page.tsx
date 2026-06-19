@@ -1,4 +1,6 @@
 // frontend/app/page.tsx
+export const dynamic = "force-dynamic";
+
 import { api } from "@/lib/api";
 import { Hero } from "@/components/Hero";
 import { MacroPanel } from "@/components/MacroPanel";

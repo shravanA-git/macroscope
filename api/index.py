@@ -1,11 +1,14 @@
-# api/index.py
 import sys
 from pathlib import Path
 
-# Add project root to Python path so backend.* is importable in Vercel's serverless context
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from backend.api.main import app  # noqa: E402
+from fastapi import FastAPI  # noqa: E402
+from backend.api.main import app as backend_app  # noqa: E402
 
-# Vercel Python runtime detects the ASGI `app` object automatically
+# Vercel routes /api/* to this file (path forwarded as-is), so FastAPI sees
+# /api/regime/current. Mount backend_app at /api so it receives /regime/current.
+app = FastAPI()
+app.mount("/api", backend_app)
+
 handler = app
