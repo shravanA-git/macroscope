@@ -7,9 +7,14 @@ import type {
 } from "./types";
 
 function getBase(): string {
+  // Explicit override always wins (set via Vercel env vars or .env.local)
   if (process.env.NEXT_PUBLIC_API_URL) return process.env.NEXT_PUBLIC_API_URL;
-  // On Vercel, VERCEL_URL is available server-side; API is mounted at /api prefix
-  if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}/api`;
+  // VERCEL_PROJECT_PRODUCTION_URL is the permanent public production alias —
+  // no deployment protection, safe to call from server components.
+  // VERCEL_URL is the per-deployment URL which has protection on preview builds.
+  const vercelHost =
+    process.env.VERCEL_PROJECT_PRODUCTION_URL ?? process.env.VERCEL_URL;
+  if (vercelHost) return `https://${vercelHost}/api`;
   return "http://localhost:8000";
 }
 
