@@ -19,7 +19,9 @@ interface Props {
 function buildData(history: RegimeHistoryPoint[]) {
   let cum = 1;
   return history.map((pt) => {
-    cum *= 1 + (pt.sp500_return ?? 0);
+    if (pt.sp500_return != null) {
+      cum *= 1 + pt.sp500_return;
+    }
     return { date: pt.date, regime: pt.regime, value: parseFloat(cum.toFixed(4)) };
   });
 }

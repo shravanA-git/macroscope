@@ -137,7 +137,7 @@ def main():
             "asset_class": "US Equities (S&P 500)",
             "median_monthly_return": round(float(aligned_returns.median()), 5) if len(aligned_returns) > 0 else 0.0,
             "mean_monthly_return": round(float(aligned_returns.mean()), 5) if len(aligned_returns) > 0 else 0.0,
-            "observation_count": int(mask.sum()),
+            "observation_count": len(aligned_returns),
         })
     (STATIC_DIR / "asset_implications.json").write_text(json.dumps({"implications": implications}, indent=2))
     print("Wrote asset_implications.json")

@@ -77,7 +77,10 @@ def assign_labels(
         reverse=True,
     )
 
-    # Pad with 'Contraction' for any states beyond the 4 named labels
+    # Pad with 'Contraction' for any states beyond the 4 named labels.
+    # WARNING: label ordering is data-driven — retraining the HMM can produce a
+    # different sorted_states order, invalidating any AutoGluon model trained on
+    # the old label_map. Always retrain HMM + AutoGluon together (refresh_predictions.py).
     padded_labels = ORDERED_LABELS + ["Contraction"] * max(0, n_states - len(ORDERED_LABELS))
     return {state: padded_labels[i] for i, state in enumerate(sorted_states)}
 

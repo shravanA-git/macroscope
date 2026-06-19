@@ -9,7 +9,10 @@ SHORT_REGIMES = {"Contraction"}
 def compute_sharpe(returns: pd.Series, risk_free_annual: float = 0.04) -> float:
     """Annualized Sharpe ratio using monthly returns."""
     excess = returns - risk_free_annual / 12
-    return float((excess.mean() / excess.std()) * np.sqrt(12))
+    std = excess.std()
+    if std == 0 or np.isnan(std):
+        return 0.0
+    return float((excess.mean() / std) * np.sqrt(12))
 
 
 def compute_max_drawdown(returns: pd.Series) -> float:
