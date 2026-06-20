@@ -31,15 +31,24 @@ export default function RootLayout({
               v0.1 · FRED + HMM + AutoGluon
             </span>
           </div>
-          <a
-            href="https://github.com/shravan-anand/macroscope"
-            className="mono text-xs transition-colors"
-            style={{ color: "#525252" }}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            GitHub →
-          </a>
+          <div className="flex items-center gap-4">
+            <a
+              href="/learn"
+              className="mono text-xs transition-colors"
+              style={{ color: "#525252" }}
+            >
+              Learn
+            </a>
+            <a
+              href="https://github.com/shravan-anand/macroscope"
+              className="mono text-xs transition-colors"
+              style={{ color: "#525252" }}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              GitHub →
+            </a>
+          </div>
         </nav>
         <main className="max-w-7xl mx-auto px-4 sm:px-6 py-8 space-y-6">
           {children}
