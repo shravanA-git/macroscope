@@ -55,3 +55,8 @@ logs/
 .pytest_cache/
 .coverage
 htmlcov/
+.vercel
+
+# local-only
+.vercel
+.pytest_cache/
