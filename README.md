@@ -85,6 +85,16 @@ Open http://localhost:3000 in your browser. That's it.
 
 ## How it works (for the quantitatively curious)
 
+```mermaid
+flowchart LR
+    F["FRED macro data<br/>~35 yrs · VIX, yield curve,<br/>credit spreads, unemployment…"] --> L1["Layer 1 — Gaussian HMM<br/>(generative, Baum-Welch)<br/>classify today's regime"]
+    L1 --> R["4 regimes:<br/>Expansion · Late-Cycle<br/>Contraction · Recovery"]
+    F --> L2["Layer 2 — AutoGluon<br/>(discriminative ensemble)"]
+    R --> L2
+    L2 --> T["Transition forecast<br/>1–3 months ahead<br/>90.4% walk-forward accuracy"]
+    R --> V["Validated vs known shocks:<br/>2008 · 2020 · 2022"]
+```
+
 **Layer 1 — HMM (Generative):** Classifies the current macro regime (Expansion / Late-Cycle /
 Contraction / Recovery) from FRED macro indicators using the Baum-Welch algorithm.
 
