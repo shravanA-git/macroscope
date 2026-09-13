@@ -40,7 +40,7 @@ export default function RootLayout({
               Learn
             </a>
             <a
-              href="https://github.com/shravan-anand/macroscope"
+              href="https://github.com/shravanA-git/macroscope"
               className="mono text-xs transition-colors"
               style={{ color: "#525252" }}
               target="_blank"
