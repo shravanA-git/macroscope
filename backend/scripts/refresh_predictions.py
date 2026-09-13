@@ -55,8 +55,10 @@ def main():
     print(ag.leaderboard()[["model", "score_val"]].head(5).to_string())
 
     # --- current_regime.json ---
-    last_features = features[zscore_cols].iloc[[-1]]
-    proba = model.predict_proba(last_features)[0]
+    # Posterior at the final step of the full sequence. Scoring the last row on
+    # its own drops the transition context the HMM relies on, and produced
+    # probabilities that contradicted the Viterbi label above.
+    proba = model.predict_proba(hmm_features)[-1]
 
     proba_dict: dict[str, float] = {}
     for state_i, prob in enumerate(proba):

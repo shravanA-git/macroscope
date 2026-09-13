@@ -1,46 +1,46 @@
 {
   "regime": {
-    "regime": "Contraction",
-    "probability": 1.0,
+    "regime": "Expansion",
+    "probability": 0.9957,
     "probabilities": {
-      "Expansion": 0.0,
-      "Recovery": 0.0,
-      "Contraction": 1.0,
+      "Expansion": 0.9957,
+      "Recovery": 0.0014,
+      "Contraction": 0.0029,
       "Late-Cycle": 0.0
     }
   },
   "indicators": [
     {
       "name": "Vix",
-      "value": 15.32,
-      "zscore": -0.622,
-      "trend": "up"
+      "value": 14.92,
+      "zscore": -0.821,
+      "trend": "down"
     },
     {
       "name": "Yield Spread",
-      "value": 0.47,
-      "zscore": 0.917,
+      "value": 0.41,
+      "zscore": -0.991,
       "trend": "down"
     },
     {
       "name": "Pmi",
-      "value": 12605.0,
-      "zscore": -1.458,
+      "value": 12638.0,
+      "zscore": 2.162,
       "trend": "flat"
     },
     {
       "name": "Credit Spread",
-      "value": 1.57,
-      "zscore": 0.116,
+      "value": 1.59,
+      "zscore": -0.946,
       "trend": "down"
     },
     {
       "name": "Unemployment",
-      "value": 4.3,
-      "zscore": 1.773,
-      "trend": "up"
+      "value": 4.1,
+      "zscore": -1.658,
+      "trend": "flat"
     }
   ],
-  "last_updated": "2026-06-18T05:00:20.388766+00:00",
-  "description": "GDP declining or stagnant, VIX elevated, credit spreads wide. Defensive positioning."
+  "last_updated": "2026-09-13T16:36:19.319710+00:00",
+  "description": "GDP growing, unemployment falling, credit spreads tight. Historically the best period for equities."
 }

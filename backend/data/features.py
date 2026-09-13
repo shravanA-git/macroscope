@@ -42,6 +42,12 @@ def build_feature_matrix(raw_df: pd.DataFrame) -> pd.DataFrame:
     coverage = raw_df.notna().mean()
     raw_df = raw_df.loc[:, coverage >= threshold]
 
+    # Bridge short interior gaps (e.g. BLS skipped October 2025 during the
+    # government shutdown). One NaN would otherwise blank 12 months of rolling
+    # z-scores and dropna() would silently truncate history at the gap.
+    # limit_area="inside" leaves the still-unreleased trailing month alone.
+    raw_df = raw_df.interpolate(method="time", limit=2, limit_area="inside")
+
     zscores = add_rolling_zscores(raw_df)
     moms = add_rate_of_change(raw_df)
     lags = add_lag_features(zscores)

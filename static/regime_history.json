@@ -2074,6 +2074,61 @@
       "date": "2025-09-30",
       "regime": "Contraction",
       "sp500_return": 0.03532
+    },
+    {
+      "date": "2025-10-31",
+      "regime": "Contraction",
+      "sp500_return": 0.02269
+    },
+    {
+      "date": "2025-11-30",
+      "regime": "Contraction",
+      "sp500_return": 0.0013
+    },
+    {
+      "date": "2025-12-31",
+      "regime": "Contraction",
+      "sp500_return": -0.00052
+    },
+    {
+      "date": "2026-01-31",
+      "regime": "Contraction",
+      "sp500_return": 0.01366
+    },
+    {
+      "date": "2026-02-28",
+      "regime": "Contraction",
+      "sp500_return": -0.00867
+    },
+    {
+      "date": "2026-03-31",
+      "regime": "Recovery",
+      "sp500_return": -0.05093
+    },
+    {
+      "date": "2026-04-30",
+      "regime": "Recovery",
+      "sp500_return": 0.10423
+    },
+    {
+      "date": "2026-05-31",
+      "regime": "Recovery",
+      "sp500_return": 0.05147
+    },
+    {
+      "date": "2026-06-30",
+      "regime": "Recovery",
+      "sp500_return": -0.01065
+    },
+    {
+      "date": "2026-07-31",
+      "regime": "Expansion",
+      "sp500_return": -0.00129
+    },
+    {
+      "date": "2026-08-31",
+      "regime": "Expansion",
+      "sp500_return": 0.02623
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "current_regime": "Contraction",
+  "current_regime": "Expansion",
   "predicted_next_regime": "Contraction",
   "transition_probabilities": {
-    "Contraction": 0.62,
-    "Expansion": 0.01,
-    "Late-Cycle": 0.1733,
-    "Recovery": 0.1967
+    "Contraction": 0.4683,
+    "Expansion": 0.3817,
+    "Late-Cycle": 0.0017,
+    "Recovery": 0.1483
   },
   "forecast_horizon_months": 1
 }
